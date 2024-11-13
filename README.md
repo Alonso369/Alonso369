@@ -9,6 +9,7 @@
 - ⚡ Curiosidade: Gosto muito de pessoas, pensar nas questões humanas no trabalho, faz muita diferença.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Alonso%20Kraemer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alonso-kraemer-4873661a8/)](https://www.linkedin.com/in/alonso-kraemer-4873661a8/)
+[![Gmail Badge](https://img.shields.io/badge/-alonso2chz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alonso2chz@gmail.com)](mailto:alonso2chz@gmail.com)
 <!--
 **Alonso369/Alonso369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

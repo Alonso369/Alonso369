@@ -31,7 +31,9 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<img align="left" height="200" src="https://media.giphy.com/media/kYNVwkyB3jkauFJrZA/giphy.gif?cid=82a1493bo1g8ww9fbi9y36uearuz83f1t490gqfsj3431ius&ep=v1_gifs_trending&rid=giphy.gif&ct=g"  />
 
+###
 <!--
 **Alonso369/Alonso369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
